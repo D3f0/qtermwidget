@@ -1,0 +1,7 @@
+pyqt4/sip*.h
+pyqt4/sip*.cpp
+pyqt4/*.so
+pyqt4/*.o
+pyqt4/Makefile
+pyqt4/*.sbf
+pyqt4/*.exp
